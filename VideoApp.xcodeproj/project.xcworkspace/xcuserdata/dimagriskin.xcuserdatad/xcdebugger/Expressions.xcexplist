@@ -3,6 +3,17 @@
    version = "1.0">
    <ContextStates>
       <ContextState
+         contextName = "AVPlayer.isPlaying.getter:VideoCollectionViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.label">
+            </PersistentString>
+            <PersistentString
+               value = "rate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "VideoCollectionViewCell.startPlayback():VideoCollectionViewCell.swift">
          <PersistentStrings>
             <PersistentString
@@ -15,6 +26,14 @@
          <PersistentStrings>
             <PersistentString
                value = "label.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "VideoCollectionViewCell.configure(with:):VideoCollectionViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(describing: label.text)">
             </PersistentString>
          </PersistentStrings>
       </ContextState>
