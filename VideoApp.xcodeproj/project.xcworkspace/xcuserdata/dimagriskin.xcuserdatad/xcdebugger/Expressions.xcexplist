@@ -30,6 +30,14 @@
          </PersistentStrings>
       </ContextState>
       <ContextState
+         contextName = "VideoCollectionViewCell.observeValue(forKeyPath:of:change:context:):VideoCollectionViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "label.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "VideoCollectionViewCell.configure(with:):VideoCollectionViewCell.swift">
          <PersistentStrings>
             <PersistentString
